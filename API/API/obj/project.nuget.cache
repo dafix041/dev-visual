@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qzd5Hl9wjEoILE3NEuBCp69Ne88hf4+ucrLTdMsytI1qrP6o+V1Xeh0R5DzHigHtKk65hbXB1oDrNFAiA5GBkw==",
+  "dgSpecHash": "fwuhaFN2pyzA2HE/dRyrNOIol+3Phy8C2vxBqUT3nHea9FgqhOFMdB/913J+pPOYpFYOrf9CNEFr38e7Y4MBcQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\2023-desenvolvimento-visual-segunda-888d52cc44602e7cdc2513856c7d3e145f6f125d\\API\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\dev-visual\\API\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TioDo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\TioDo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

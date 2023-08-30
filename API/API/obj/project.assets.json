@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\2023-desenvolvimento-visual-segunda-888d52cc44602e7cdc2513856c7d3e145f6f125d\\API\\API\\API.csproj",
+      "projectUniqueName": "c:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\dev-visual\\API\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\2023-desenvolvimento-visual-segunda-888d52cc44602e7cdc2513856c7d3e145f6f125d\\API\\API\\API.csproj",
+      "projectPath": "c:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\dev-visual\\API\\API\\API.csproj",
       "packagesPath": "C:\\Users\\TioDo\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\2023-desenvolvimento-visual-segunda-888d52cc44602e7cdc2513856c7d3e145f6f125d\\API\\API\\obj\\",
+      "outputPath": "c:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\dev-visual\\API\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TioDo\\AppData\\Roaming\\NuGet\\NuGet.Config"
