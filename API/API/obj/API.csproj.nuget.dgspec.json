@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\2023-desenvolvimento-visual-segunda-888d52cc44602e7cdc2513856c7d3e145f6f125d\\API\\API\\API.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\2023-desenvolvimento-visual-segunda-888d52cc44602e7cdc2513856c7d3e145f6f125d\\API\\API\\API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\2023-desenvolvimento-visual-segunda-888d52cc44602e7cdc2513856c7d3e145f6f125d\\API\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "c:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\2023-desenvolvimento-visual-segunda-888d52cc44602e7cdc2513856c7d3e145f6f125d\\API\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\TioDo\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\2023-desenvolvimento-visual-segunda-888d52cc44602e7cdc2513856c7d3e145f6f125d\\API\\API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TioDo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
