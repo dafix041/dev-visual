@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using API.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace API.Data;
 
@@ -12,4 +13,7 @@ public class AppDataContext : DbContext
 //Classes que vão virar tabelas pro banco de dados
 
 public  DbSet<Produto> Produtos { get; set; }
+public DbSet<Categoria> Categorias{ get; set; }
+
+
 }

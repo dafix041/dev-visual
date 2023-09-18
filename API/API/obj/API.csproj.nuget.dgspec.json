@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\dev-visual\\API\\API\\API.csproj": {}
+    "C:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\dev-visual\\API\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\dev-visual\\API\\API\\API.csproj": {
+    "C:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\dev-visual\\API\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\dev-visual\\API\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\dev-visual\\API\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\dev-visual\\API\\API\\API.csproj",
+        "projectPath": "C:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\dev-visual\\API\\API\\API.csproj",
         "packagesPath": "C:\\Users\\TioDo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\dev-visual\\API\\API\\obj\\",
+        "outputPath": "C:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\aula\\4semestre\\software_visual\\dev-visual\\API\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TioDo\\AppData\\Roaming\\NuGet\\NuGet.Config"
