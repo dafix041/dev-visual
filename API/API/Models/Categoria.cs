@@ -3,5 +3,5 @@
 public class Categoria
 {
     public int  CategoriaID { get; set; }
-    public string Descricao { get; set; }
-}git 
+    public string? Descricao { get; set; }
+}

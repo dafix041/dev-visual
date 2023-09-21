@@ -1,14 +1,13 @@
-### Listar de produtos 
-GET https://localhost:7195/api/produto/listar
 
-### Buscar de produtos 
-
-GET https://localhost:7195/api/produto/buscar/Bolacha
-
+###Listar de produtos
+GET https://localhost:7195/api/produto/listar/
 ### Cadastrar de produtos
+
 POST https://localhost:7195/api/produto/cadastrar
 Content-Type: application/json
 
 {
-    "nome" : "Bolacha"
+    "nome" : "arroz",
+    "quantidade": 123,
+    "preco": 4.5
 }
